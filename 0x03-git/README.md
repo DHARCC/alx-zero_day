@@ -1,1 +1,1 @@
-This directory is for all git tasks performed within alx pre course
+This directory is for the git taskduring probation month
