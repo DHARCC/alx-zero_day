@@ -1,1 +1,1 @@
-This directory is for the git taskduring probation month
+This directory is for the git task performed during probation month
